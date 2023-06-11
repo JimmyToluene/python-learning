@@ -1,6 +1,6 @@
 # Python Learning - Harvard CS50's Introduction to Programming with Python
 
-This repository contains notes and code snippets from the Harvard CS50's class, "Introduction to Programming with Python". It's a great resource for anyone looking to learn Python or reinforce their existing knowledge.
+This repository contains notes and code snippets from the Harvard CS50's class, "Introduction to Programming with Python".
 
 ## About the Course
 
